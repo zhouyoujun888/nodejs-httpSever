@@ -1,0 +1,5 @@
+{
+    "powermode.enabled": true,
+    "powermode.explosions.gifMode": "continue",
+    "powermode.explosions.backgroundMode": "mask"
+}
